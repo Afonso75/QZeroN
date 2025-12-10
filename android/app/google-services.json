@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211361772244",
+    "project_id": "qzero-c313f",
+    "storage_bucket": "qzero-c313f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211361772244:android:ccad3ea306e4cefb5a8141",
+        "android_client_info": {
+          "package_name": "com.qzero.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2UPArHg5gkt7cTwOlZtYtahSKK1HqAQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
